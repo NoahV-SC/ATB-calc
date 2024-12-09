@@ -102,3 +102,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+.Rproj.user
+/ATB Files
+example_notebooks/.Rhistory
+example_notebooks/atb_data_flat.csv
+example_notebooks/Full work flow.ipynb
+out.csv
+example_notebooks/Full work flow.ipynb
+example_notebooks/Process ATB electricity technology.ipynb
